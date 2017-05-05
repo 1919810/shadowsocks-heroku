@@ -1,10 +1,10 @@
 {
-  "server": "127.0.0.1",
+  "server": ["frozen-scrubland-59593", "sheltered-escarpment-47579", "guarded-taiga-93664", "frozen-sierra-73701", "cryptic-scrubland-54892", "secure-inlet-46191", "protected-peak-82247", "quiet-scrubland-70402", "mysterious-escarpment-48243", "fathomless-springs-23061", "aqueous-brook-79789", "enigmatic-savannah-88624", "obscure-dawn-89693", "agile-cliffs-18842", "aqueous-peak-66173", "arcane-refuge-71009", "floating-gorge-76876", "thawing-brook-88046", "calm-island-75274", "sheltered-escarpment-57206", "nameless-coast-84792", "whispering-citadel-94928", "salty-ocean-64196", "pure-atoll-43643", "secure-sierra-36816", "stormy-gorge-12414", "calm-fjord-45128", "still-ridge-86654", "serene-caverns-56012", "calm-basin-19219", "still-scrubland-17891", "murmuring-coast-42343", "lit-dusk-11186", "mighty-taiga-31067", "mighty-escarpment-15812", "desolate-ridge-52428", "obscure-oasis-78167", "immense-waters-16384", "evening-springs-37295", "salty-caverns-46356", "stormy-island-97839", "sleepy-shelf-55009", "powerful-wave-11290", "murmuring-harbor-10205", "cryptic-refuge-43344", "glacial-waters-21202", "safe-ocean-59626", "secret-sea-88253", "protected-dawn-37485", "mysterious-falls-14181", "blooming-inlet-52809", "powerful-peak-44945", "rocky-harbor-96322", "warm-stream-50280", "floating-tor-65433", "dry-garden-57710", "limitless-peak-88271", "thawing-mountain-22792", "thawing-waters-62522", "rocky-garden-30108", "polar-dusk-59163", "damp-reef-64879", "enigmatic-brook-21865", "boiling-bayou-22065", "blooming-castle-12689", "limitless-beyond-91038", "frozen-eyrie-86290", "pure-wildwood-42450", "mighty-mesa-17439", "damp-everglades-51462", "fierce-badlands-20762", "agile-garden-51155", "fast-garden-70719", "aqueous-fortress-99915", "still-falls-62682", "warm-springs-68323", "calm-refuge-29863", "aqueous-woodland-80663", "glacial-sierra-33719", "lit-atoll-74268", "calm-springs-96991", "agile-bayou-30242", "aqueous-ravine-31633", "floating-island-79701", "aqueous-citadel-86859", "glacial-mesa-18492", "polar-shore-43969", "shielded-falls-56136", "nameless-badlands-15740", "aqueous-shore-61239", "warm-escarpment-19069", "obscure-garden-45882", "gentle-plateau-35093", "dry-shelf-81366"],
   "local_address": "127.0.0.1",
   "scheme": "ws",
   "local_port": 1080,
-  "remote_port": 8080,
-  "password": "`try*(^^$some^$%^complex>:<>?~password/",
+  "remote_port": 80,
   "timeout": 600,
-  "method": "rc4-md5"
+  "method": "rc4",
+  "key": "abcdtg",
 }
